@@ -6,25 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=110&lines=Hey+there%2C+I'm+Carlos+Eugenio!+%F0%9F%91%8B;CS+Student+at+FIAP+%F0%9F%8E%93;Working+at+Santander+%F0%9F%8F%A6;Always+coding%2C+always+evolving+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/carloseugenioandrade/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/carloseugenioandrade">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Santander-EC0000?style=for-the-badge&logo=santander&logoColor=white" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=carloseugenioandrade&color=CC0000&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
 
 <img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
 
