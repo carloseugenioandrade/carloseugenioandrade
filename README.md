@@ -1,199 +1,185 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:845EC2,50:0081CF,75:02B5A0,100:FFC75F&height=220&section=header&text=Carlos%20Eugenio&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Developer&descSize=18&descAlignY=55&descAlign=50" />
-
 <div align="center">
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=845EC2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Ol%C3%A1%2C+eu+sou+Carlos+Eugenio!+%F0%9F%91%8B;Bem-vindo+ao+meu+universo+digital!+%F0%9F%8C%8C)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=240&section=header&text=Carlos%20Eugenio&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=%F0%9F%92%BB%20Computer%20Science%20Student%20%7C%20%F0%9F%8F%A6%20Santander&descSize=20&descAlignY=58&descAlign=50" />
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=110&lines=Hey+there%2C+I'm+Carlos+Eugenio!+%F0%9F%91%8B;CS+Student+at+FIAP+%F0%9F%8E%93;Working+at+Santander+%F0%9F%8F%A6;Always+coding%2C+always+evolving+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carloseugenioandrade/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/carloseugenioandrade">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Santander-EC0000?style=for-the-badge&logo=santander&logoColor=white" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=carloseugenioandrade&color=CC0000&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
-<!-- ========================= ABOUT ME ========================= -->
+<br/>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <b> Sobre Mim </b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
 
-<div align="center">
-  <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
-</div>
+<br/>
 
-<br>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> &nbsp; About Me
+
+<img align="right" width="320" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623031622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578456a6c4b356972464a43564a77685656374b365076583736492f64656b737462622e676966" />
 
 ```yaml
-nome: Carlos Eugênio
-idade: 19 anos
-localizacao: Brasil
-educacao: Ciencia da Computacao - FIAP
-status: Em constante aprendizado
+name       : Carlos Eugênio
+age        : 19 years old
+location   : São Paulo, Brazil 🇧🇷
+education  : Computer Science — FIAP
+company    : Santander
+status     : Constantly learning & building 🚀
 ```
 
-<br>
+<br/>
+
+- 🏦 Working at **Santander Brasil**
+- 🎓 Pursuing Computer Science at FIAP — São Paulo, a leading tech university focused on innovation and market-ready skills
+- 💡 Passionate about technology, fintech and innovation
+- 🌱 Deepening knowledge in Java and Python
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/carloseugenioandrade/)
+
+<br clear="both"/>
+
+<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; Tech Stack
+
+<br/>
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Linguagens & Tecnologias:**
+### 💻 Programming Languages
 
-<br><br>
+<br/>
 
-<!-- Animated Tech Badges -->
-<a href="#">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=carloseugenioandrade&show_icons=true&bg_color=0d1117&title_color=CC0000&text_color=c9d1d9&icon_color=CC0000&border_color=CC000040&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseugenioandrade&layout=compact&bg_color=0d1117&title_color=CC0000&text_color=c9d1d9&border_color=CC000040&hide_border=false" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseugenioandrade&theme=dark&background=0d1117&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=555555&border=CC000040" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=carloseugenioandrade&bg_color=0d1117&color=CC0000&line=CC0000&point=FFFFFF&area_color=CC000030&area=true&hide_border=false&custom_title=Contribution%20Graph" />
+
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=carloseugenioandrade&theme=darkhub&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloseugenioandrade/carloseugenioandrade/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloseugenioandrade/carloseugenioandrade/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/carloseugenioandrade/carloseugenioandrade/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
+
+<br/>
+
+## 💬 Random Dev Quote
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
+
+<br/>
+
+## 🤝 Let's Connect
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/carloseugenioandrade/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da797a47b3f4.png" />
 </a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
+&nbsp;&nbsp;
+<a href="https://github.com/carloseugenioandrade">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png" />
 </a>
 
-</div>
+<br/><br/>
 
-<br clear="both">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ========================= FIAP ========================= -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  Universidade
-</h2>
-
-<div align="center">
-  
-  <a href="https://www.fiap.com.br/">
-    <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/fiap/vitrines/nova-marca/logos.png" width="250" alt="FIAP Logo"/>
-  </a>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/FIAP-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-ED145B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABkSURBVCiRY/j//z8DEwMDAwMjIyMDCwsLAzc3NwMfHx8DOzs7AyMjo8D///8ZGBgYGP7//8/w798/hn///jH8/fuX4c+fPwy/f/9m+PXrF8PPnz8Zfvz4wfDt2zeGr1+/MgAAcTMfD2fHnWoAAAAASUVORK5CYII=&logoColor=white" alt="FIAP Badge"/>
-  
-  <br><br>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=ED145B&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%8E%93+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+-+FIAP;%F0%9F%92%BB+Faculdade+de+Inform%C3%A1tica+e+Administra%C3%A7%C3%A3o+Paulista;%F0%9F%9A%80+Formando+os+melhores+profissionais+de+TI)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Carlos%20Eugenio-CC0000?style=for-the-badge" />
 
 </div>
 
-<br>
+<br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ========================= GITHUB STATS ========================= -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  GitHub Stats
-</h2>
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carloseugenio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=845EC2&icon_color=845EC2&text_color=C9D1D9&ring_color=845EC2" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseugenio&theme=tokyonight&hide_border=true&background=0D1117&ring=845EC2&fire=FF6B6B&currStreakLabel=845EC2&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseugenio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=845EC2&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=carloseugenio&bg_color=0D1117&color=845EC2&line=845EC2&point=FF6B6B&area_color=845EC2&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Contribution Graph" />
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ========================= SNAKE ANIMATION ========================= -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>
-  Contribuicoes
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloseugenio/carloseugenio/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloseugenio/carloseugenio/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/carloseugenio/carloseugenio/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
-> **Nota:** Para ativar a animacao da cobra, configure a [GitHub Action do Snake](https://github.com/Platane/snk) no seu repositorio de perfil.
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ========================= CONNECT WITH ME ========================= -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  Conecte-se Comigo
-</h2>
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/carloseugenioandrade/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/carloseugenio.06/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  <br><br>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=845EC2&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Vamos+construir+algo+incr%C3%ADvel+juntos!+%F0%9F%9A%80;Sempre+aberto+a+novas+oportunidades!+%F0%9F%92%BC;Aprendendo+algo+novo+todos+os+dias!+%F0%9F%93%9A)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-<!-- ========================= PROFILE VIEWS & TROPHIES ========================= -->
-
-<div align="center">
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=carloseugenio&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=845EC2&style=for-the-badge" alt="Profile Views"/>
-
-  <br><br>
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=carloseugenio&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies"/>
-
-</div>
-
-<br>
-
-<!-- ========================= QUOTE ========================= -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br>
-
-<!-- ========================= FOOTER ========================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:845EC2,50:0081CF,75:02B5A0,100:FFC75F&height=150&section=footer" />
-
-<div align="center">
-  <b>Feito com muito cafe e dedicacao por Carlos Eugenio</b>
-  <br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=140&section=footer" />
