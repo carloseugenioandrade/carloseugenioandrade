@@ -46,7 +46,7 @@ status     : Constantly learning & building 🚀
 <br/>
 
 - 🏦 Working at **Santander Brasil**
-- 🎓 Pursuing Computer Science at FIAP — São Paulo, a leading tech university focused on innovation and market-ready skills
+- 🎓 Pursuing Computer Science at FIAP — São Paulo.
 - 💡 Passionate about technology, fintech and innovation
 - 🌱 Deepening knowledge in Java and Python
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/carloseugenioandrade/)
@@ -98,17 +98,6 @@ status     : Constantly learning & building 🚀
 
 <br/>
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=carloseugenioandrade&bg_color=0d1117&color=CC0000&line=CC0000&point=FFFFFF&area_color=CC000030&area=true&hide_border=false&custom_title=Contribution%20Graph" />
-
-</div>
-
-<br/>
-
-<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
-
-<br/>
 
 ## 🏆 GitHub Trophies
 
