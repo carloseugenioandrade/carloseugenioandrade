@@ -17,7 +17,6 @@
   <tr border="0">
     <td align="center" border="0">
       <br/>
-      <img src="https://github.com/carloseugenioandrade.png" width="180" style="border-radius: 50%; border: 4px solid #CC0000;" />
       <br/>
       <h1>Carlos <span style="color: #CC0000;">Eugenio</span></h1>
       <h3>Computer Science Student at FIAP | Santander</h3>
@@ -99,7 +98,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=120&section=footer" />
 
 <p align="center">
-  © 2026 Carlos Eugenio. Made with ❤️ in São Paulo, Brazil.
+  © 2026 Carlos Eugenio. Made with in São Paulo, Brazil.
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Carlos%20Eugenio-CC0000?style=for-the-badge" />
 </p>
 
