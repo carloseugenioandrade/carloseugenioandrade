@@ -9,7 +9,6 @@
 <table border="0">
   <tr>
     <td width="200" align="center">
-      <img src="https://github.com/carloseugenioandrade.png" width="180" style="border-radius: 50%; border: 3px solid #CC0000;" />
     </td>
     <td valign="center">
 <!-- HERO SECTION (TOPO) -->
@@ -17,6 +16,7 @@
   <tr border="0">
     <td align="center" border="0">
       <br/>
+      <img src="https://github.com/carloseugenioandrade.png" width="180" style="border-radius: 50%; border: 4px solid #CC0000;" />
       <br/>
       <h1>Carlos <span style="color: #CC0000;">Eugenio</span></h1>
       <h3>Computer Science Student at FIAP | Santander</h3>
