@@ -4,13 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=200&section=header&text=Carlos%20Eugenio&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" />
 
 <br/>
-
-<!-- HERO SECTION -->
-<table border="0">
-  <tr>
-    <td width="200" align="center">
-    </td>
-    <td valign="center">
 <!-- HERO SECTION (TOPO) -->
 <table border="0" width="100%">
   <tr border="0">
