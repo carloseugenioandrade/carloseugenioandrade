@@ -1,74 +1,96 @@
 <div align="center">
 
-<!-- HEADER IDENTICO AO APP -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=200&section=header&text=Carlos%20Eugenio&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" />
+<!-- ============ HEADER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=220&section=header&text=Carlos%20Eugenio&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Computer%20Science%20%7C%20Backend%20%26%20Data&descSize=18&descAlignY=58&descColor=FFFFFF" />
 
-<br/>
-<!-- HERO SECTION (TOPO) -->
-<table border="0" width="100%">
-  <tr border="0">
-    <td align="center" border="0">
-      <br/>
-      <img src="https://github.com/carloseugenioandrade.png" width="180" style="border-radius: 50%; border: 4px solid #CC0000;" />
-      <br/>
-      <h1>Carlos <span style="color: #CC0000;">Eugenio</span></h1>
-      <h3>Computer Science Student at FIAP | Santander</h3>
-      <a href="https://www.linkedin.com/in/carloseugenioandrade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://github.com/carloseugenioandrade"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="mailto:carloseugenioprofissional@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<!-- ============ HERO ============ -->
+<img src="https://github.com/carloseugenioandrade.png" width="160" style="border-radius:50%;" />
 
-<img width="100%" height="3" src="https://i.imgur.com/dBaSKWF.gif">
+### Carlos Eugenio Andrade
 
-<br/>
+**Computer Science Student @ FIAP** · **Tech @ Santander Brasil** 🏦
 
-<!-- LAYOUT PRINCIPAL (SIDEBAR + CONTENT) -->
-<table border="0">
-<!-- LAYOUT DE DUAS COLUNAS -->
-  <tr>
-      <br/>
-      <h3 align="center">🔴 About Me</h3>
-      <p><b>🎂 Age:</b> 19 years old</p>
-      <p><b>📍 Location:</b> São Paulo, BR 🇧🇷</p>
-      <p><b>🎓 Education:</b> Computer Science - FIAP</p>
-      <p><b>🏦 Company:</b> Santander Brasil 🏦</p>
-      <hr border="1" color="#30363d">
-      <h3 align="center">⚙️ Tech Stack</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,mysql,git,postman&theme=dark&perline=3" />
-      </div>>
-    
-  </tr>
-</table>
+<p>
+  <a href="https://www.linkedin.com/in/carloseugenioandrade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/carloseugenioandrade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:carloseugenioprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=carloseugenioandrade&style=for-the-badge&color=CC0000&label=PROFILE+VIEWS" />
 
-<!-- STREAK (FULL WIDTH) -->
-<table border="0" width="100%" bgcolor="#161b22">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseugenioandrade&theme=dark&background=161b22&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=555555&border=30363d&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<img width="100%" height="2" src="https://i.imgur.com/dBaSKWF.gif">
 
-<br/>
-
-<!-- STREAK STATS -->
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseugenioandrade&theme=dark&background=0d1117&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=555555&border=30363d&hide_border=false" />
 </div>
 
-<!-- FOOTER IDENTICO AO APP -->
+## About Me
+
+```yaml
+name:      Carlos Eugenio Andrade
+role:      Computer Science Student & Backend Developer
+age:       19
+location:  São Paulo, Brazil 🇧🇷
+education: Computer Science @ FIAP
+company:   Santander Brasil
+focus:     [ Backend, APIs, Databases, Data Engineering ]
+learning:  [ Cloud, System Design, Software Architecture ]
+```
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseugenioandrade&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseugenioandrade&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=c9d1d9" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseugenioandrade&theme=dark&background=0D1117&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=555555&border=30363d&hide_border=true" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=carloseugenioandrade&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+<!-- ============ FOOTER ============ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=120&section=footer" />
 
-<p align="center">
-  © 2026 Carlos Eugenio. Made with in São Paulo, Brazil. </br>
-  
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Carlos%20Eugenio-CC0000?style=for-the-badge" />
-</p>
+<div align="center">
+
+© 2026 Carlos Eugenio · Made with ❤️ in São Paulo, Brazil
+
+<img src="https://img.shields.io/badge/Made%20by-Carlos%20Eugenio-CC0000?style=for-the-badge" />
 
 </div>
