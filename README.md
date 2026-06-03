@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- ============ HEADER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0000,25:8B0000,50:CC0000,75:8B0000,100:5C0000&height=220&section=header&text=Carlos%20Eugenio&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Computer%20Science%20%7C%20Backend%20%26%20Data&descSize=18&descAlignY=58&descColor=FFFFFF" />
+<!-- ============ HEADER (GIF TECH BACKGROUND) ============ -->
+<!-- Para trocar o fundo, basta substituir a URL do GIF abaixo -->
+<img width="100%" height="230" style="object-fit: cover;" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="tech background" />
 
 <!-- ============ HERO ============ -->
 <img src="https://github.com/carloseugenioandrade.png" width="160" style="border-radius:50%;" />
