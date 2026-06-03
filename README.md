@@ -10,6 +10,10 @@
 
 **Computer Science Student @ FIAP** · **Tech @ Santander Brasil** 🏦
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CC0000&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer+%F0%9F%9A%80;Computer+Science+Student+%40+FIAP;Java+%7C+Python+%7C+TypeScript;Always+learning+new+technologies+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
 <p>
   <a href="https://www.linkedin.com/in/carloseugenioandrade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/carloseugenioandrade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -81,6 +85,24 @@ learning:  [ Cloud, System Design, Software Architecture ]
 <br/>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=carloseugenioandrade&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+<br/>
+
+<!-- Animated contribution activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=carloseugenioandrade&bg_color=0D1117&color=CC0000&line=CC0000&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<!-- This animated snake is generated automatically by a GitHub Actions workflow (.github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloseugenioandrade/carloseugenioandrade/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloseugenioandrade/carloseugenioandrade/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/carloseugenioandrade/carloseugenioandrade/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
