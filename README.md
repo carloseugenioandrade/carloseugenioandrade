@@ -71,6 +71,36 @@ learning:  [ Cloud, System Design, Software Architecture ]
 
 </div>
 
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/carloseugenioandrade/Volatility-Skew-Scanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloseugenioandrade&repo=Volatility-Skew-Scanner&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/carloseugenioandrade/Calculadora-de-severecidade">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloseugenioandrade&repo=Calculadora-de-severecidade&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/carloseugenioandrade/colonia-aurora-siger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloseugenioandrade&repo=colonia-aurora-siger&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/carloseugenioandrade/HR-Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloseugenioandrade&repo=HR-Manager&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9" />
+</a>
+
+</div>
+
+## Certifications & Learning
+
+<div align="center">
+
+<!-- Edite/adicione suas certificações reais abaixo -->
+![FIAP](https://img.shields.io/badge/FIAP-Computer%20Science-CC0000?style=for-the-badge&logo=bookstack&logoColor=white)
+![Santander](https://img.shields.io/badge/Santander-Tech-EC0000?style=for-the-badge&logo=santander&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
 ## GitHub Analytics
 
 <div align="center">
